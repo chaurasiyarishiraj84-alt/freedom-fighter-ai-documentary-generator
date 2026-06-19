@@ -12,7 +12,7 @@ An enterprise-grade AI-powered documentary generation system that transforms his
 
 🔗 LinkedIn: https://www.linkedin.com/in/rishirajchaurasiya
 
-🔗 GitHub: https://github.com/<YOUR_GITHUB_USERNAME>
+🔗 GitHub: https://github.com/chaurasiyarishiraj84-alt
 
 ---
 
@@ -720,7 +720,7 @@ LinkedIn:
 https://www.linkedin.com/in/rishirajchaurasiya
 
 GitHub:
-https://github.com/<YOUR_GITHUB_USERNAME>
+https://github.com/chaurasiyarishiraj84-alt
 
 ---
 
